@@ -1,0 +1,23 @@
+[kdeglobals][General]
+ColorScheme=Quasi Deepin
+
+
+[kdeglobals][Icons]
+Theme=breeze
+
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Koompi
+
+
+[plasmarc][Theme]
+name=Koompi
